@@ -71,7 +71,7 @@ body {
 }
 
 body {
-    background-color: lightpink;
+    background-color: #ffd4aa !important;
 }
 
 .container-sliders {
@@ -88,4 +88,6 @@ body {
     text-align: center;
     font-weight: 500;
 }
-
+.nav-bg {
+    background-color: #ff912b !important;
+}
