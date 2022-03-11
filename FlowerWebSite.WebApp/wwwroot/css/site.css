@@ -74,4 +74,18 @@ body {
     background-color: lightpink;
 }
 
+.container-sliders {
+   margin:50px auto !important; 
+}
+.box-sizing1 {
+    width: 900px;
+    }
+.box-sizing2{
+    width:900px;
+    }
+
+.price {
+    text-align: center;
+    font-weight: 500;
+}
 
