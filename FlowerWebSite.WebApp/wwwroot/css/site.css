@@ -98,3 +98,9 @@ body {
 .img-height{
     height:100%;
 }
+
+.h1-specials {
+    text-align: center !important;
+    margin: 40px 0 !important;
+    font-size: medium !important;
+}
