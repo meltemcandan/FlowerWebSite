@@ -104,3 +104,7 @@ body {
     margin: 40px 0 !important;
     font-size: medium !important;
 }
+
+.pull-right{
+    text-align:right;
+}
